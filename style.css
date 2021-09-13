@@ -1,5 +1,5 @@
 html{
-    position: relative;    
+
 }
 html, body{
    min-height: 100%; 
@@ -10,7 +10,7 @@ body{
     color: #fff;
 }
 .container{
-    padding-bottom: 60px;
+    padding-bottom: 80px;
 }
 
 a:hover{
