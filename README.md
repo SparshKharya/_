@@ -175,9 +175,7 @@
         </section>
     </div>
     <!-- Footer -->
-    <footer>
-        Sparsh Kharya &copy; 2021 all rights reserved
-    </footer>
+    
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/moment.js/2.20.1/moment-with-locales.min.js"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/suncalc/1.8.0/suncalc.min.js"></script>
